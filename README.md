@@ -4,6 +4,8 @@ Dark creative agency template: intro loader, circular full-screen menu with 3D t
 
 **Live demo:** https://abdelmoulabilel.github.io/creative-agency-template/
 
+**Built by:** [Bilel Abdelmoula](https://bilelabdelmoula.dev), full-stack developer.
+
 ![Preview](preview.webp)
 
 ## Use it
